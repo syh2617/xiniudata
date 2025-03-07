@@ -16,3 +16,7 @@
 
 ## 目标参数截图
 - 详细请参阅附带的Word文档 README.docx。
+
+## 核心加密逻辑
+
+该文件中：xiniu_encrypt.py
