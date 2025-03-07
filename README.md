@@ -1,5 +1,9 @@
 # 烯牛数据 爬虫demo(只采集三页)
 
+## 核心加密逻辑
+
+### 该文件中：xiniu_encrypt.py
+
 ## 目标网站
 - [烯牛数据 - 新一代科创数据引擎](https://www.xiniudata.com/industry/newest?from=data)
 
@@ -16,7 +20,3 @@
 
 ## 目标参数截图
 - 详细请参阅附带的Word文档 README.docx。
-
-## 核心加密逻辑
-
-该文件中：xiniu_encrypt.py
